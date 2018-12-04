@@ -2,6 +2,7 @@
   "name": "lit-utils.js",
   "version": "1.0.0",
   "description": "shared file for lit-element",
+  "main": "lit-utils.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
