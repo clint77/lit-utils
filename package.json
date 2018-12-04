@@ -1,5 +1,5 @@
 {
-  "name": "@moduware/lit-utils.js",
+  "name": "@moduware/lit-utils",
   "version": "1.0.0",
   "description": "shared file for lit-element",
   "main": "lit-utils.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/clint77/lit-utils.js.git"
+    "url": "git+https://github.com/clint77/lit-utils.git"
   },
   "keywords": [
     "lit",
@@ -20,7 +20,7 @@
   "author": "Clint",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/clint77/lit-utils.js/issues"
+    "url": "https://github.com/clint77/lit-utils/issues"
   },
-  "homepage": "https://github.com/clint77/lit-utils.js#readme"
+  "homepage": "https://github.com/clint77/lit-utils#readme"
 }
